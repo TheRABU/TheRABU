@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheRABU
-- 👀 I’m interested in ... Flutter Developing
-- 🌱 I’m currently learning ...Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Ethical Hacking | Cybersecurity | CTF | Pyhton | Web Application pentesting
+- 🌱 I’m currently learning cybersecurity
+- 💞️ I’m looking to collaborate on ... hackerone,bugcrowd.
 - 📫 How to reach me ...
 
 <!---
