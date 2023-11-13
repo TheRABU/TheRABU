@@ -8,9 +8,9 @@ Here are some of the technologies and skills I've gained so far:
 
 - **Programming:** JavaScript, Python
 - **Operating Systems:** Linux (Debian, Ubuntu), Windows
-- **Web Development:** HTML, CSS, JavaScript, React, Express.js, Tailwind CSS, Bootstrap 5, Django
+- **Web Development:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap 5, Django
 - **Version Control:** Git
-- **Database:** SQL (MySQL), NoSQL (MongoDB)
+- **Database:** MySQL
 - **Problem Solving & Analytics Skills**
 - **Computer Fundamentals**
 - **Networking:** IPv4, IPv6, HTTP, Web Fundamentals
