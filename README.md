@@ -1,6 +1,6 @@
 # Hello, I'm Md. Fazle Rabbi! 👋
 
-I'm a Computer Science student at the University of Asia Pacific (UAP) in Dhaka, Bangladesh. My journey in the world of technology has been an exciting one, and I'm passionate about learning and exploring various aspects of the field. 
+I'm a Computer Science student at the University of Asia Pacific (UAP) in Dhaka, Bangladesh learning and loving coding each day even more.
 
 ### 💻 Technologies & Skills
 
