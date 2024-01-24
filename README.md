@@ -1,6 +1,6 @@
 # Hello, I'm Md. Fazle Rabbi! 👋
 
-I'm a Computer Science student at the University of Asia Pacific (UAP) in Dhaka, Bangladesh learning and loving coding each day even more.
+I'm a Computer Science student from Dhaka learning and loving coding each day even more. I started my coding journey in college when i created a basic html webpage. Ever since that time i came to know about Javascript which is the engine of any website. And I have created some websites using Javascript. Besides that for my college project I used Django also.
 
 ### 💻 Technologies & Skills
 
