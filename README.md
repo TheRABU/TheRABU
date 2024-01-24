@@ -7,13 +7,11 @@ I'm a Computer Science student at the University of Asia Pacific (UAP) in Dhaka,
 Here are some of the technologies and skills I've gained so far:
 
 - **Programming:** JavaScript, Python
-- **Operating Systems:** Linux (Debian, Ubuntu), Windows
 - **Web Development:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap 5, Django
 - **Version Control:** Git
 - **Database:** MySQL
 - **Problem Solving & Analytics Skills**
 - **Computer Fundamentals**
-- **Networking:** IPv4, IPv6, HTTP, Web Fundamentals
 - **Web Security:** Familiar with OWASP Top 10 vulnerabilities like XSS, SQL Injection, RCE, and File Upload Vulnerabilities
 
 ### 💡 A Bit About Me
