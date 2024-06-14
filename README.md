@@ -6,10 +6,10 @@ I'm a Computer Science student from Dhaka learning and loving coding each day ev
 
 Here are some of the technologies and skills I've gained so far:
 
-- **Programming:** JavaScript, Python
-- **Web Development:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap 5, Django
+- **Programming:** HTML, CSS, JavaScript,
+- **Web Framework and technologies:**  React.js, Express.js, Node.js, Tailwind CSS, UI libiraries etc..
 - **Version Control:** Git
-- **Database:** MySQL
+- **Database:** Mongodb
 - **Problem Solving & Analytics Skills**
 - **Computer Fundamentals**
 - **Web Security:** Familiar with OWASP Top 10 vulnerabilities like XSS, SQL Injection, RCE, and File Upload Vulnerabilities
