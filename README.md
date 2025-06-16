@@ -1,28 +1,39 @@
-# Hello, I'm Md. Fazle Rabbi! 👋
+<h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-I'm a Computer Science student from Dhaka learning and loving coding each day even more. I started my coding journey in college when i created a basic html webpage. Ever since that time i came to know about Javascript which is the engine of any website. And I have created some websites using Javascript. Besides that for my college project I used Django also.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therabu&label=Profile%20views&color=0e75b6&style=flat" alt="therabu" /> </p>
 
-### 💻 Technologies & Skills
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therabu" alt="therabu" /></a> </p>
 
-Here are some of the technologies and skills I've gained so far:
+<p align="left"> <a href="https://twitter.com/whyrabu" target="blank"><img src="https://img.shields.io/twitter/follow/whyrabu?logo=twitter&style=for-the-badge" alt="whyrabu" /></a> </p>
 
-- **Programming:** HTML, CSS, JavaScript,
-- **Web Framework and technologies:**  React.js, Express.js, Node.js, Tailwind CSS, UI libiraries etc..
-- **Version Control:** Git
-- **Database:** Mongodb
-- **Problem Solving & Analytics Skills**
-- **Computer Fundamentals**
-- **Web Security:** Familiar with OWASP Top 10 vulnerabilities like XSS, SQL Injection, RCE, and File Upload Vulnerabilities
+- 🔭 I’m currently working on [Fc-troll football](https://fctroll-football.web.app/)
 
-### 💡 A Bit About Me
+- 🌱 I’m currently learning **Next.js**
 
-I'm a tech enthusiast who's always eager to explore new technologies and stay updated with the latest industry trends. Whether it's diving into web development, solving complex problems, or addressing security concerns, I love the challenge and the opportunity to grow.
+- 👯 I’m looking to collaborate on [We Learn BD (LMS)](https://we-learn-bd.web.app/)
 
-Feel free to reach out to me via email at mdfazlerabbi114@gmail.com. Let's connect and discuss tech, collaborate on projects, or just chat about our shared passion for all things digital.
+- 🤝 I’m looking for help with [Foodie Bite](https://foodie-bite.web.app/)
 
-Thanks for visiting! 😊
+- 👨‍💻 All of my projects are available at [https://fazlerabbi-new-portfolio.vercel.app/](https://fazlerabbi-new-portfolio.vercel.app/)
 
-<!---
-TheRABU/TheRABU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💬 Ask me about **react, tailwindcss, Javascript(es6+), html, css, git**
+
+- 📫 How to reach me **mdfazlerabbi114@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1-NKBL3qEV355wbURT1Ym6gymNHnLzS__slamEH4eL6A/edit?usp=sharing](https://docs.google.com/document/d/1-NKBL3qEV355wbURT1Ym6gymNHnLzS__slamEH4eL6A/edit?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/whyrabu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whyrabu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/therabbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="therabbi" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therabu&show_icons=true&locale=en&layout=compact" alt="therabu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therabu&show_icons=true&locale=en" alt="therabu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therabu&" alt="therabu" /></p>
