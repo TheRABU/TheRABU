@@ -1,4 +1,5 @@
 # 💫 About Me:
+![Profile Views](https://komarev.com/ghpvc/?username=TheRABU&color=brightgreen)
 🔭 I’m currently working on LMS, CMS Platform<br>👯 I’m looking to collaborate on Opensource/saas<br>🤝 I’m looking for help with Prisma<br>🌱 I’m currently learning Nextjs, PostgreSQL<br>💬 Ask me about Paid Collaboration / Opensource contributions<br>⚡ Fun fact: Finding one...wait ;)
 
 
